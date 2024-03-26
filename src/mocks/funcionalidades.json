@@ -1,0 +1,32 @@
+[
+    {
+       "nome":"Gerar CPF",
+       "descricao":"Gera um número de CPF válido",
+       "imagem": "a",
+        "background": "b"
+    },
+    {
+        "nome":"Word para PDF",
+        "descricao":"Converte um arquivo do Word para PDF",
+        "imagem": "a",
+        "background": "b" 
+     },
+     {
+        "nome":"PDF para Word",
+        "descricao":"Converte um arquivo do PDF para Word",
+        "imagem": "a",
+        "background": "b"
+     },
+     {
+        "nome":"Consultar CEP",
+        "descricao":"Consulta um CEP e retorna o endereço",
+        "imagem": "a",
+        "background": "b" 
+     },
+     {
+        "nome":"Converte Moeda",
+        "descricao":"Converte um valor de uma moeda para outra",
+        "imagem": "a",
+        "background": "b" 
+     }
+]
